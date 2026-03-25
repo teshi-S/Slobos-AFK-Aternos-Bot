@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "4sanglier.aternos.me ",
+    "ip": "4sanglier.aternos.me",
     "port": 51066,
     "version": "",
     "try-creative": true
